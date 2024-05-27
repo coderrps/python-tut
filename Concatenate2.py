@@ -1,5 +1,5 @@
 test = ['Hello', 'Everyone', 'Very', 'Good', 'Morning', '!']
-
+# hi
 n = len(test) 
 # N = 2
 temp = ""
